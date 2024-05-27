@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Romaisa Khanam</h1>
 <h3 align="center">A Beginner in World of Coding.</h3>
 <img align="right" width="300" height="300" src="https://media3.giphy.com/media/9nB2R4VkKRe5qznOhF/giphy.gif?cid=ecf05e47awgi44o0d5glxgvs0wcfuwtch0c3m6uurnn4ocep&ep=v1_gifs_related&rid=giphy.gif&ct=g">
-- 🌱 I’m currently learning **DSA MERN STACK**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **DSA, SQL**
+- 💬 Ask me about **DSA, Dart, Flutter**
 
 - 📫 How to reach me **khanam.romi@outlook.com**
 
